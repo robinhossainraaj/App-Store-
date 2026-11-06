@@ -1,0 +1,32 @@
+{
+  "notifications": [
+    {
+      "id": "2026-11-06-01",
+      "type": "update",
+      "title": "Living Life 1.0.1 is out",
+      "message": "Bug fixes and a faster startup.",
+      "package": "com.rorax.note",
+      "versionCode": 2,
+      "link": "",
+      "date": "2026-11-06T15:00:00Z"
+    },
+    {
+      "id": "2026-11-06-02",
+      "type": "new_app",
+      "title": "New app: Rorax Tools",
+      "message": "Now available in the store.",
+      "package": "com.rorax.tools",
+      "link": "",
+      "date": "2026-11-06T15:10:00Z"
+    },
+    {
+      "id": "2026-11-07-01",
+      "type": "announcement",
+      "title": "Store maintenance",
+      "message": "Downloads may be slow tonight.",
+      "package": "",
+      "link": "https://t.me/my_dad_raaj",
+      "date": "2026-11-07T09:00:00Z"
+    }
+  ]
+}
